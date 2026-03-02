@@ -16,4 +16,4 @@
     NODE_VERSION = "18"
 
 [template.environment]
-    DAILY_API_KEY = "Replace with Daily API key"
+    DAILY_API_KEY = "6b89611a89b61bdcdc1d0ff08f055bd6d576c24af8eee80895c0f7105f91c7d6"
